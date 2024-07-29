@@ -1,5 +1,11 @@
 [![LICENSE](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 
+CZECH |
+Stavte patra domu ve hře Tower Building Game. Tuto hru můžete znát z mobilů a vlastně i tato verze se dobře hraje v internetovém prohlížeči mobilu, tabletu nebo počítači. Podporován je tedy nejen dotyk, ale i klikáním myši. ;)
+- Hra je k dispozici online: https://infoek.cz/hry/tower/index.html
+- Gameplay ze hry: https://peertube.arch-linux.cz/w/kJ65gQNPSZYPNoo6m9ZBvY
+
+
 English | [简体中文](./README.zh-CN.md)
 
 <h1 align="center">Tower Building Game</h1>
